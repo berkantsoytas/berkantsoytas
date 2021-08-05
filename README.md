@@ -20,7 +20,7 @@
     <br>
     🔬 I'm currently studying in -
     <br>
-    🎓 I graduated from Adana Çukurova Elektrik Meslek ve Teknik Meslek High School
+    🎓 I graduated from Adana Çukurova Elektrik Meslek ve Teknik High School
     <br>
     💻 I love writing code and learn anythings about it
     <br>
