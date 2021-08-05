@@ -83,7 +83,7 @@
   <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
   <br><br><br><br><br><br><br>
   <h4 align="center">
-    <a href="https://github.com/ramazansancar?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+    <a href="https://github.com/berkantsoytas?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
   </h4>
 
 
