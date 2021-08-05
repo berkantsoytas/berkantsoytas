@@ -35,10 +35,13 @@
   <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
   <br>
   <p align="center">
-    <code><img title="C" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/c.svg"></code>
     <code><img title="Vue" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/vuejs.png"></code>
-    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/python-original.svg"></code>
     <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/javascript.svg"></code>
+    <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/php.svg"></code>
+    <code><img title="Csharp" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/csharplogo.png"></code>
+    <code><img title="ViteJS" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/vitelogo.png"></code>
+    <code><img title="Windi CSS" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/windilogo.png"></code>
+    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/python-original.svg"></code>
     <code><img title="Problem Solving" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/problemSolving.png"></code>
     <code><img title="HTML5" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/html5.svg"></code>
     <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/css.svg"></code>
@@ -52,8 +55,6 @@
     <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/github.svg"></code>
     <code><img title="MySQL" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/mysql.svg"></code>
     <code><img title="npm" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/npm.svg"></code>
-    <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/php.svg"></code>
-    <code><img title="Flask" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/flask.png"></code>
   </p>
   <hr>
 
