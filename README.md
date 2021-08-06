@@ -37,6 +37,8 @@
   <p align="center">
     <code><img title="Vue" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/vuejs.png"></code>
     <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/javascript.svg"></code>
+    <code><img title="Typescript" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/typescript.svg"></code>
+    <code><img title="Flutter" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/flutter-logo.svg"></code>
     <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/php.svg"></code>
     <code><img title="Csharp" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/csharplogo.png"></code>
     <code><img title="ViteJS" height="25" src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/images/vitelogo.png"></code>
