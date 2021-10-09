@@ -28,7 +28,7 @@
     <br>
     💬 Ask me anything about from <a href="https://github.com/berkantsoytas/berkantsoytas/issues" title="Issues">Here</a>
     <br>
-    📫 How to reach me: <a href="mailto: mailtoberkant@gmail.com">berkant@edulayer.net</a>
+    📫 How to reach me: <a href="mailto: mailtoberkant@gmail.com">mailtoberkant@gmail.com</a>
   </p>
 
   <hr>
