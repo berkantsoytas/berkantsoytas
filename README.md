@@ -18,7 +18,7 @@
     Hi, I'm Berkant Soytaş, Software Developer from Turkey
     <br>
     <br>
-    🔬 I'm currently studying in -
+    🔬 I'm currently studying in Çukurova University
     <br>
     🎓 I graduated from Adana Çukurova Elektrik Meslek ve Teknik High School
     <br>
@@ -28,7 +28,7 @@
     <br>
     💬 Ask me anything about from <a href="https://github.com/berkantsoytas/berkantsoytas/issues" title="Issues">Here</a>
     <br>
-    📫 How to reach me: <a href="mailto: berkant@edulayer.net">berkant@edulayer.net</a>
+    📫 How to reach me: <a href="mailto: mailtoberkant@gmail.com">berkant@edulayer.net</a>
   </p>
 
   <hr>
