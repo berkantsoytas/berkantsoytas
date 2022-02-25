@@ -8,7 +8,7 @@
 
   <h5 align="center">
     <code>
-      <a href="https://www.linkedin.com/in/berkant-soytas-45416b198/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
+      <a href="https://www.linkedin.com/in/berkantsoytas" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
     <code><a href="https://www.hackerrank.com/berkantsoytas?hr_r=1" title="HackerRank Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/hackerrank.png"> HackerRank</a></code>
     <code><a href="https://stackoverflow.com/users/16599280/berkant-soyta%c5%9f" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/stackoverflow.svg"> Stack Overflow</a></code>
     <code><a href="https://www.instagram.com/berkant.exe/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/instagram.svg"> Instagram</a></code>
