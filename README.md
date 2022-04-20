@@ -24,7 +24,7 @@
     <br>
     💻 I love writing code and learn anythings about it
     <br>
-    📚 I’m currently learning how to build Education Website with Nodejs and VueJs
+    📚 I’m currently learning how to build Blockchain
     <br>
     💬 Ask me anything about from <a href="https://github.com/berkantsoytas/berkantsoytas/issues" title="Issues">Here</a>
     <br>
