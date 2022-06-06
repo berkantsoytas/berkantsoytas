@@ -14,7 +14,7 @@
   </h5>
 <br>
   
-- 🌱 I’m currently learning Rust and Kubernetes 
+- 🌱 I’m currently learning Blockchain network and NFT's
 - 📫 How to reach me: [mailtoberkant@gmail.com](mailto:berkant@gmail.com)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkantsoytas&show_icons=true)  
