@@ -17,5 +17,13 @@
 - 🌱 I’m currently learning Blockchain network and NFT's
 - 📫 How to reach me: [mailtoberkant@gmail.com](mailto:berkant@gmail.com)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkantsoytas&show_icons=true)  
+<details align="center" >
+<summary>Github most used Languages</summary>
+<img width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantsoytas&layout=compact"/>
+</details>
+
+<details align="center" >
+<summary>Github stats summary</summary>
+<img width="350px" height="150px" src="https://github-readme-stats.vercel.app/api?username=berkantsoytas&show_icons=true&bg_color=35,002880,3059b3,4ab2c7,007f99&text_color=FFF&theme=dark&custom_title=Berkant%27s%20GitHub%20stats&hide_border=true&border_radius=10"/>
+</details>
   
