@@ -14,7 +14,7 @@
   </h5>
 <br>
   
-- 🌱 I’m currently learning Blockchain network and NFT's
+- 🌱 I’m currently learning Blockchain
 - 📫 How to reach me: [mailtoberkant@gmail.com](mailto:berkant@gmail.com)
 
 <details align="center">
