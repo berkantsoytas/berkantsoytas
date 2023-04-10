@@ -7,12 +7,10 @@
     </a>
   </h1>
   
-  <h5 align="center">
-    <code>
-      <a href="https://www.linkedin.com/in/berkantsoytas" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code>
-    <code></code>
-    <code><a href="https://stackoverflow.com/users/16599280/berkant-soyta%c5%9f" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/stackoverflow.svg"> Stack Overflow</a></code>
-  </h5>
+  <h3 align="center">
+    <code><a href="https://www.linkedin.com/in/berkantsoytas" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code> 
+<code><a href="https://stackoverflow.com/users/17437354/berkant" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/stackoverflow.svg"> Stack Overflow</a></code>
+  </h3>
 <br>
   
 - 🌱 I’m currently learning Blockchain
