@@ -1,34 +1,53 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=berkantsoytas.berkantsoytas"> -->
+<h1 align="center">Hi, I'm Berkant Soytaş 👋</h1>
 
-  <h1>
-    <a href="https://git.io/typing-svg">
-      <!--<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Berkant....;A+developer+from+World;&center=true&size=30">-->
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Berkant....;A+developer+from+Earth;&center=true&size=30">
-    </a>
-  </h1>
-  
-  <h3 align="center">
-    <code><a href="https://www.linkedin.com/in/berkantsoytas" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/linkedin.svg"> LinkedIn</a></code> 
-<code><a href="https://stackoverflow.com/users/17437354/berkant" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/ramazansancar/ramazansancar/main/images/stackoverflow.svg"> Stack Overflow</a></code>
-  </h3>
-<br>
-  
-- 🌱 I’m currently learning Blockchain
-- 📫 How to reach me: [mailtoberkant@gmail.com](mailto:berkant@gmail.com)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%26+Architect;Backend+Infrastructure+Developer;Blockchain+%26+Distributed+Systems&center=true&size=24">
+  </a>
+</p>
+
+<p align="center">
+  <code><a href="https://berkantsoytas.dev">Portfolio</a></code>
+  <code><a href="https://github.com/berkantsoytas">GitHub</a></code>
+  <code><a href="https://www.linkedin.com/in/berkantsoytas"><img width="18" src="./images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://stackoverflow.com/users/17437354/berkant"><img width="18" src="./images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="mailto:mailtoberkant@gmail.com">Email</a></code>
+</p>
+
+```json
+{
+  "role": "Software Developer & Architect",
+  "specialty": "Backend Infrastructure Developer",
+  "location": "Adana, TR",
+  "status": "available for hire",
+  "focus": ["Backend", "Blockchain", "Distributed Systems", "Automation"]
+}
+```
+
+- 🧠 I design and build scalable backend systems, blockchain-integrated products, and automation platforms.
+- ⚙️ I enjoy working on high-concurrency services, event-driven pipelines, API performance, and infrastructure architecture.
+- 🌍 Based in Türkiye and open to remote opportunities.
+
+## Core Stack
+
+`Node.js` `TypeScript` `Go` `Rust` `C#` `Python` `Solidity`  
+`Kafka` `Redis` `PostgreSQL` `MySQL` `MongoDB` `RabbitMQ`  
+`Docker` `Kubernetes` `Terraform` `Linux` `Nginx` `GitHub Actions`
+
+## Selected Work
+
+- **steem-sbd-arbitrage-pipeline** — automated cross-chain arbitrage pipeline with real-time monitoring and execution
+- **blockchain-indexer** — scalable event indexing and transaction automation pipelines for blockchain data
+- **cross-chain-bridge** — infrastructure for asset and data transfer across heterogeneous chains
+- **steem-sidechain-network** — EVM-compatible sidechain architecture for ecosystems without native sidechain support
+
+## Current Interests
+
+- Event-driven backend systems
+- Blockchain infrastructure and smart contract integrations
+- AI-assisted developer workflows and automation
 
 <details align="center">
-  <summary>My Github Profile</summary>
+  <summary>GitHub Metrics</summary>
   <img src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/master/github-metrics.svg" />
 </details>
-
-<!--
-<details align="center" >
-<summary>Github most used Languages</summary>
-<img width="350px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkantsoytas&layout=compact"/>
-</details>
-
-<details align="center" >
-<summary>Github stats summary</summary>
-<img width="350px" height="150px" src="https://github-readme-stats.vercel.app/api?username=berkantsoytas&show_icons=true&bg_color=35,002880,3059b3,4ab2c7,007f99&text_color=FFF&theme=dark&custom_title=Berkant%27s%20GitHub%20stats&hide_border=true&border_radius=10"/>
-</details>
--->
