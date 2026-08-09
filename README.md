@@ -24,15 +24,24 @@
 }
 ```
 
-- 🧠 I design and build scalable backend systems, blockchain-integrated products, and automation platforms.
-- ⚙️ I enjoy working on high-concurrency services, event-driven pipelines, API performance, and infrastructure architecture.
-- 🌍 Based in Türkiye and open to remote opportunities.
+Curiosity-driven backend developer building reliable, scalable, and high-performance systems. Primarily working with Node.js, TypeScript, and Go — and selectively using Rust for performance-critical parts. Focused on event-driven architectures, pragmatic system design, blockchain infrastructure, and automation.
+
+- 🌍 Based in Türkiye and open to remote opportunities
+- 🧩 Interested in backend infrastructure, distributed systems, Web3, and AI-assisted automation
 
 ## Core Stack
 
-`Node.js` `TypeScript` `Go` `Rust` `C#` `Python` `Solidity`  
-`Kafka` `Redis` `PostgreSQL` `MySQL` `MongoDB` `RabbitMQ`  
-`Docker` `Kubernetes` `Terraform` `Linux` `Nginx` `GitHub Actions`
+**Languages**  
+`Node.js` `TypeScript` `Go` `Rust` `C#` `Python` `Solidity`
+
+**Backend & Systems**  
+`Express.js` `NestJS` `ASP.NET` `REST APIs` `WebSockets` `JWT` `OAuth` `Clean Architecture` `Microservices`
+
+**Data & Infrastructure**  
+`Kafka` `RabbitMQ` `Redis` `PostgreSQL` `MySQL` `MongoDB` `Docker` `Kubernetes` `Terraform` `Linux` `Nginx`
+
+**Blockchain & Automation**  
+`Smart Contracts` `DeFi` `EVM` `Web3.js` `Ethers.js` `AI Agents` `LLM Integrations` `Automation Scripting`
 
 ## Selected Work
 
@@ -41,11 +50,11 @@
 - **cross-chain-bridge** — infrastructure for asset and data transfer across heterogeneous chains
 - **steem-sidechain-network** — EVM-compatible sidechain architecture for ecosystems without native sidechain support
 
-## Current Interests
+## Explore More
 
-- Event-driven backend systems
-- Blockchain infrastructure and smart contract integrations
-- AI-assisted developer workflows and automation
+- 🌐 [Portfolio](https://berkantsoytas.dev)
+- 📝 [Portfolio Repository](https://github.com/berkantsoytas/portfolio)
+- 💬 [Stack Overflow](https://stackoverflow.com/users/17437354/berkant)
 
 <details align="center">
   <summary>GitHub Metrics</summary>
