@@ -99,5 +99,5 @@ blockchain altyapısı, AI destekli otomasyon
 
 <details align="center">
   <summary>GitHub Metrics</summary>
-  <img src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/master/github-metrics.svg" />
+  <img src="https://raw.githubusercontent.com/berkantsoytas/berkantsoytas/main/github-metrics.svg" />
 </details>
