@@ -75,22 +75,6 @@ blockchain infrastructure, AI-assisted automation
 **Blockchain & Automation**  
 `Smart Contracts` `DeFi` `EVM` `Web3.js` `Ethers.js` `AI Agents` `LLM Integrations` `Automation Scripting`
 
-## terminal --section selected-work
-
-```txt
-[01] steem-sbd-arbitrage-pipeline
-     automated cross-chain arbitrage pipeline with real-time monitoring and execution
-
-[02] blockchain-indexer
-     scalable event indexing and transaction automation pipelines for blockchain data
-
-[03] cross-chain-bridge
-     infrastructure for asset and data transfer across heterogeneous chains
-
-[04] steem-sidechain-network
-     EVM-compatible sidechain architecture for ecosystems without native sidechain support
-```
-
 ## terminal --section links
 
 - 🌐 [Portfolio](https://berkantsoytas.dev)
