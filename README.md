@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+%26+Architect;Backend+Infrastructure+Developer;Blockchain+%26+Distributed+Systems;Automation+%26+AI-assisted+Workflows&center=true&size=24">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=true&width=435&lines=+Software+Developer+%26+Architect;Backend+Infrastructure+Developer;Blockchain+%26+Distributed+Systems+;Automation+%26+AI-assisted+Workflows"/>
 </p>
 
 <p align="center">
