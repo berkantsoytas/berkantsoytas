@@ -6,6 +6,8 @@ on:
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
   push: {branches: ["master", "main"]}
+permissions:
+  contents: write
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -20,7 +22,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ github.token }}
 
           # Options
           user: berkantsoytas
