@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Adana%2C%20TR-111827?style=for-the-badge&logo=googlemaps&logoColor=22c55e" alt="Location badge">
+  <img src="https://img.shields.io/badge/Location-Turkey-111827?style=for-the-badge&logo=googlemaps&logoColor=22c55e" alt="Location badge">
   <img src="https://img.shields.io/badge/Status-Available%20for%20hire-111827?style=for-the-badge&logo=vercel&logoColor=22c55e" alt="Status badge">
   <img src="https://img.shields.io/badge/Focus-Backend%20%7C%20Blockchain%20%7C%20Automation-111827?style=for-the-badge&logo=gnometerminal&logoColor=38bdf8" alt="Focus badge">
 </p>
